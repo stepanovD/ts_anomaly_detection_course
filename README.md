@@ -2,6 +2,8 @@
 
 This repository including notebooks with examples about timeseries anomaly detection.
 
+YouTube course https://www.youtube.com/watch?v=92EF4vqaBSE&list=PL7GGfr9mTeYWniRK11xuFsEky07oUQ_tX&index=2
+
 Our dataset is timeseries of food retail:
 
 | ou           | datetime            | cheques | rto   | n_sku | cnt | cashnum |
